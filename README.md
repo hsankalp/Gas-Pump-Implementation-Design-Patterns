@@ -1,0 +1,3 @@
+# Gas Pump Implementation using Software Architecture Design Patterns 
+
+Gas Pump with three different Gas Pump designs and three different Software Architectural Design Patterns (Decentralized State, Abstract Factory and the Strategy Design Patterns) where the user can select the Gas Pump to use and based on the selection, the User can select the Payment Method and also the Type of Gas to be used. The objective is to maximize cohesion and minimize coupling.
